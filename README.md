@@ -1,1 +1,2 @@
-# Task-1-LANDING-PAGE
+# OIBGRIP
+I developed this landing page using HTML and CSS. 
